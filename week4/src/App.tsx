@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Modal from "./components/Modal";
+import Modal from "./Components/Modal.tsx";
 
 function App() {
   const [showInfo, setShowInfo] = useState(false);
